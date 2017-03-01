@@ -3,5 +3,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/labimp.extend"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/labimp.basis"/>
+	<classpathentry kind="lib" path="H:/Java/Resources/j3d-1_5_2-windows-amd64/lib/ext/j3dcore.jar"/>
+	<classpathentry kind="lib" path="H:/Java/Resources/j3d-1_5_2-windows-amd64/lib/ext/j3dutils.jar"/>
+	<classpathentry kind="lib" path="H:/Java/Resources/j3d-1_5_2-windows-amd64/lib/ext/vecmath.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
